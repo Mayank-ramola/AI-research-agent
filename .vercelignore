@@ -1,0 +1,11 @@
+tests/
+reports/
+.venv/
+venv/
+.streamlit/
+streamlit_app.py
+cli.py
+requirements-dev.txt
+.env
+__pycache__/
+.pytest_cache/

@@ -1,0 +1,6 @@
+# Runtime dependencies (this is what Vercel installs)
+fastapi>=0.115
+groq>=0.30
+requests>=2.32
+beautifulsoup4>=4.12
+python-dotenv>=1.0
